@@ -7,6 +7,10 @@ New Features:
 
 * [#2072](https://github.com/ckeditor/ckeditor-dev/issues/2072): [UI Button](https://ckeditor.com/cke4/addon/button) plugin supports custom `aria-haspopup` property values. [Menu Button](https://ckeditor.com/cke4/addon/menubutton) `aria-haspopup` value is now `menu`, [Panel Button](https://ckeditor.com/cke4/addon/panelbutton) and [Rich Combo](https://ckeditor.com/cke4/addon/richcombo) `aria-haspopup` value is now `listbox`.
 
+Fixed Issues:
+
+* [#2169](https://github.com/ckeditor/ckeditor-dev/issues/2169): Fixed: MS Edge some times throws an error when pasting into editor.
+
 ## CKEditor 4.10
 
 New Features:
